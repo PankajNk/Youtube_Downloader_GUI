@@ -10,5 +10,5 @@
    Generally the downloaded video is in 720p
    
 ## Screenshot 
-  (images/Capture1.png)
+  ![alt text](images/Capture1.png "Title")
  
