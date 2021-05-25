@@ -7,8 +7,21 @@
    * You can also choose the desire location.
  
 ## You need to know before download
-   Generally the downloaded video is in 720p
+   Generally the downloaded video is 720p
    
 ## Screenshot 
   ![alt text](images/Capture1.PNG "Title")
  
+## Libray used 
+***
+* pytube  for downloading YouTube Videos.
+* tkinter for GUI
+* threading for Progress Bar
+
+## Refrences used
+  https://pytube.io/en/latest/
+  https://docs.python.org/3/library/threading.html
+  https://docs.python.org/3/library/tkinter.html
+  
+  
+###### HAppy to see any changes
