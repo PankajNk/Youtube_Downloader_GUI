@@ -19,9 +19,10 @@
 * threading for Progress Bar
 
 ## Refrences used
-  https://pytube.io/en/latest/
-  https://docs.python.org/3/library/threading.html
-  https://docs.python.org/3/library/tkinter.html
+***
+  * https://pytube.io/en/latest/
+  * https://docs.python.org/3/library/threading.html
+  * https://docs.python.org/3/library/tkinter.html
   
   
-###### HAppy to see any changes
+##### Happy to see any changes :) :)
